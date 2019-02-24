@@ -1,0 +1,24 @@
+{
+  "name": "buzzex-npm",
+  "version": "1.0.0",
+  "description": "Buzzex Package for Gekko",
+  "main": "buzzex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzzexweb/buzzex-gekko-npm.git"
+  },
+  "keywords": [
+    "buzzex",
+    "npm",
+    "gekko"
+  ],
+  "author": "Buzzex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buzzexweb/buzzex-gekko-npm/issues"
+  },
+  "homepage": "https://github.com/buzzexweb/buzzex-gekko-npm#readme"
+}

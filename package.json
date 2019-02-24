@@ -1,6 +1,6 @@
 {
-  "name": "buzzex-npm",
-  "version": "1.0.0",
+  "name": "buzzex-gekko-npm",
+  "version": "1.0.1",
   "description": "Buzzex Package for Gekko",
   "main": "buzzex.js",
   "scripts": {
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buzzexweb/buzzex-gekko-npm.git"
+    "url": "git+https://github.com/buzzexweb/buzzex-gekko-npm"
   },
   "keywords": [
-    "buzzex",
     "npm",
+    "buzzex",
     "gekko"
   ],
   "author": "Buzzex",
